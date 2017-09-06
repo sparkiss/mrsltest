@@ -1,4 +1,4 @@
 markdown: redcarpet
 baseurl: /mrsl
-
+exclude: ['README.md']
 
